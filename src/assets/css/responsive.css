@@ -1,0 +1,303 @@
+@media only screen and (min-width:320px) and (max-width:767px) {
+    body .workdeta1 .col-lg-3 {
+        padding-bottom: 12px !important;
+    }
+    .scheduled_btns {
+        flex-direction: column;
+        align-items: center;
+    }
+    .scheduled_btns button {
+        margin-bottom: 16px;
+    }
+    .flexible-content .navbar ul li a {
+        border: 0px !important;
+    }
+    .add_newvehicle form ul li {
+        width: 100%;
+        margin-right: 0px !important
+    }
+    .content_section {
+        padding: 10px;
+    }
+    .sub_btn button {
+        color: #fff;
+        font-size: 15px !important;
+        height: 42px !important;
+        line-height: 0;
+        margin-right: 2px !important;
+        padding: 12px !important;
+        width: 112px !important;
+    }
+    .add_newvehicle form {
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 400px;
+    }
+    .addvehicle_detail form {
+        max-width: 100% !important;
+    }
+    .login_lft_section {
+        display: none;
+    }
+    .rgt_section,
+    .rgt_cen {
+        height: 100% !important;
+        margin-left: 0px !important;
+    }
+    .rgt_section {
+        margin: 30px 0px;
+    }
+    .health_index_sec {
+        padding: 10px;
+    }
+    .health_index_lst p {
+        min-height: 100% !important;
+    }
+    .main_histry_lst .rgt_mh {
+        align-self: center;
+    }
+    .main_histry_lst {
+        flex-direction: column;
+    }
+    .main_histry_lst .lft_mh {
+        margin-bottom: 14px;
+        text-align: center;
+    }
+    .vehicle_lsts_sec {
+        padding: 40px 0 30px !important;
+    }
+    .service_inprogress_lst li label {
+        max-width: 100% !important;
+    }
+    .service_inprogress_lst li span {
+        padding-left: 0px !important;
+    }
+    .serv_prog_btn {
+        margin-left: 0px !important;
+    }
+    .vehicle_lsts_sec {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:991px) {
+    .health_index_lst {
+        max-width: 100%;
+        width: 100%;
+    }
+    #navbarSupportedContent .dropdown {
+        position: fixed;
+        right: 75px;
+        top: 17px;
+    }
+    .cart_info.nav-item.ripple-parent {
+        font-size: 25px;
+        position: fixed;
+        right: 185px;
+        top: 9px;
+    }
+    .flexible-content .navbar-nav {
+        border: 1px solid #fff;
+        margin-top: 10px;
+    }
+    .flexible-content .nav-item {
+        border-bottom: 1px solid #fff;
+        padding: 10px 0px;
+    }
+    body .flexible-content .nav-item.ripple-parent.cart_info {
+        padding: 0px !important;
+        border: 0px !important;
+    }
+    #navbarSupportedContent .dropdown {
+        margin-right: 0px !important;
+    }
+    .prof_ico {
+        position: fixed;
+        right: 148px;
+        top: 15px;
+    }
+    .c-pane-container {
+        margin-bottom: 21px;
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1384px) {
+    .vehicle_lst {
+        padding: 15px 2px !important;
+    }
+    .vehicle_lst button {
+        width: 100px !important;
+    }
+    .vehicle_name,
+    .vehicle_no {
+        font-size: 16px !important;
+    }
+    .vehicle_cont {
+        padding: 6px !important;
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1374px) {
+    .add_newvehicle form ul li {
+        width: 47%;
+        margin-right: 3%;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:1104px) {
+    .add_newvehicle form ul li {
+        width: 47%;
+        margin-right: 3%;
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:850px) {
+    .add_newvehicle form ul li label {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:479px) {
+    .addvehicle_detail ul li label,
+    .addvehicle_detail ul li span {
+        width: 100%;
+        padding-left: 0px !important;
+    }
+    .schedule_app {
+        font-size: 15px !important;
+        margin-right: 8px !important;
+        padding: 5px 0 !important;
+        width: 146px;
+    }
+    .confirm-btn {
+        background: #2ecc71 none repeat scroll 0 0;
+        font-size: 15px !important;
+        height: 56px !important;
+        width: 130px !important;
+    }
+}
+
+@media only screen and (min-width:910px) and (max-width:1105px) {
+    .driver_vehicle form ul li {
+        margin-right: 0px !important;
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:909px) {
+    .driver_vehicle form ul li {
+        float: left !important;
+        width: 100% !important;
+        margin-right: 0px !important;
+    }
+    .status_btn {
+        float: left !important;
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:640px) {
+    .driver_detail ul li label {
+        width: 100% !important;
+    }
+    .status_btn {
+        float: left !important;
+    }
+    .schedulded_detail ul {
+        margin: 0px 30px !important;
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:422px) {
+    .vehicle_tlt h4 {
+        font-size: 17px !important;
+    }
+    .add_new_vehicle {
+        padding: 0px 6px !important;
+        font-size: 13px !important;
+    }
+    .vehicle_lst button {
+        width: 98px !important;
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:980px) {
+    .superadmin_content .driver_vehicle form ul {
+        width: 100% !important;
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:1199px) {
+    .workshop_content .main-title {
+        padding: 4px 30px 15px 57px;
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:400px) {
+    .el-dialog__footer .dialog-footer .el-button--primary {
+        width: 130px !important;
+    }
+    .el-dialog__footer .dialog-footer .el-button--danger {
+        width: 130px !important;
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:991px) {
+    .flexible-content .ss_drop .dropdown-menu {
+        left: 0;
+    }
+    .dn {
+        display: none;
+    }
+    .flexible-content .navbar-nav {
+        border: 0px;
+    }
+}
+
+@media only screen and (min-width:620px) and (max-width:991px) {
+    .navbar-toggler {
+        position: relative;
+        right: -94% !important;
+        top: 4px !important;
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:499px) {
+    #navbarSupportedContent .ss_drop.dropdown {
+        display: block;
+        left: 0;
+        margin-left: 11px;
+        position: static;
+        right: 0;
+        top: 0;
+        width: 100%;
+    }
+    .ss_drop .dropdown-menu.show {
+        width: 100%;
+    }
+    #navbarSupportedContent .ss_drop.dropdown {
+        text-align: center;
+    }
+    .flexible-content .ss_drop .dropdown-menu {
+        left: 0;
+        margin-top: -116px;
+    }
+}
+
+@media only screen and (min-width:500px) and (max-width:991px) {
+    .ss_drop.dropdown {
+        right: 293px !important;
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:400px) {
+    .btn {
+        margin: 0px !important;
+        padding: 0.84rem 1.45rem !important;
+    }
+    #navbarSupportedContent .dropdown {
+        position: fixed;
+        right: 55px !important;
+        top: 10px !important;
+    }
+}
